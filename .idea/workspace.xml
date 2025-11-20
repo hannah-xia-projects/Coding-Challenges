@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42798b6a-15f9-4078-a12d-af9fcc39bb91" name="Changes" comment="ignore IDEA files in .gitignore">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/games/Hangman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/games/RockPaperScissors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/launcher/MainMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/PalindromeCheck.java" afterDir="false" />
+    <list default="true" id="42798b6a-15f9-4078-a12d-af9fcc39bb91" name="Changes" comment="write starter skeleton">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Challenges.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Challenges.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761252581362</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="write starter skeleton">
+      <option name="closed" value="true" />
+      <created>1763659511246</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763659511246</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +105,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="initial commit workspace" />
     <MESSAGE value="ignore IDEA files in .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore IDEA files in .gitignore" />
+    <MESSAGE value="write starter skeleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="write starter skeleton" />
   </component>
 </project>
