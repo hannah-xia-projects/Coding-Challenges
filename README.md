@@ -1,4 +1,4 @@
-# Java Coding Challenges
+# Section 1: Java Coding Challenges
 
 Just a growing collection of java related coding challenges that will be worked on in my free time.
 
@@ -16,3 +16,17 @@ Planned Challenges:
 
 ## How to run
 inside launcher, run the MainMenu.java file
+
+# Section 2: Javascript Coding Challenges
+
+Planned Challenges:
+ **same as java challenges for now
+
+## Categories
+- games
+- algorithms
+- strings
+- arrays
+
+## How to run
+run in terminal with Node.js!
