@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42798b6a-15f9-4078-a12d-af9fcc39bb91" name="Changes" comment="wrote some of MainMenu">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Challenges.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Challenges.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/games/Hangman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/games/RockPaperScissors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/launcher/MainMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/PalindromeCheck.java" beforeDir="false" />
-    </list>
+    <list default="true" id="42798b6a-15f9-4078-a12d-af9fcc39bb91" name="Changes" comment="added javascript challenges skeleton" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763662948754</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added javascript challenges skeleton">
+      <option name="closed" value="true" />
+      <created>1764194573503</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764194573503</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +132,7 @@
     <MESSAGE value="write starter skeleton" />
     <MESSAGE value="updated README.md" />
     <MESSAGE value="wrote some of MainMenu" />
-    <option name="LAST_COMMIT_MESSAGE" value="wrote some of MainMenu" />
+    <MESSAGE value="added javascript challenges skeleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="added javascript challenges skeleton" />
   </component>
 </project>
