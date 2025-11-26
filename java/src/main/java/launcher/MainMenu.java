@@ -14,16 +14,29 @@ public class MainMenu {
 
         //impliment standard menu loop
         while (true) {
+            //give a printed menu for now :)
             System.out.println("Coding Challenges Menu");
-
+            System.out.println("1. Algorithms");
+            System.out.println("2. Games"); 
+            System.out.println("3. Strings");
+            System.out.println("4. Exit");
+            System.out.print("Enter your choice: ");
 
             choice = scanner.nextInt(); //choice will be set to the next inputted number
 
             switch (choice) {
-
-
-                case 0:
+                case 1:
+                    System.out.println("Category chosen: Algorithms");
+                    break;
+                case 2:
+                    System.out.println("Category chosen: Games");
+                    break;
+                case 3:
+                    System.out.println("Category chosen: Strings");
+                    break;
+                case 4:
                     System.out.println("Exiting program. bye bye!");
+                    scanner.close(); //close the scanner when user exists
                     return;
             }
         }
