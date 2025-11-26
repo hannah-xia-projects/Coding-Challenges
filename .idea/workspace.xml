@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42798b6a-15f9-4078-a12d-af9fcc39bb91" name="Changes" comment="updated README.md">
+    <list default="true" id="42798b6a-15f9-4078-a12d-af9fcc39bb91" name="Changes" comment="wrote some of MainMenu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/launcher/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/launcher/MainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Challenges.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Challenges.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/games/Hangman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/games/RockPaperScissors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/launcher/MainMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/PalindromeCheck.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MainMenu.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -44,7 +50,8 @@
     "last_opened_file_path": "C:/Users/hanna/IdeaProjects/cpsc233project",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -96,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763662125998</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="wrote some of MainMenu">
+      <option name="closed" value="true" />
+      <created>1763662948754</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763662948754</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +131,7 @@
     <MESSAGE value="ignore IDEA files in .gitignore" />
     <MESSAGE value="write starter skeleton" />
     <MESSAGE value="updated README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated README.md" />
+    <MESSAGE value="wrote some of MainMenu" />
+    <option name="LAST_COMMIT_MESSAGE" value="wrote some of MainMenu" />
   </component>
 </project>
