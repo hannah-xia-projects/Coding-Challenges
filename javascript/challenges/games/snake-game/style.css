@@ -1,11 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #ffc3c3;
+    background-color: #d6ffc3;
+    font-size: 15px;
 }
 .container {
     text-align: center;
@@ -15,14 +16,21 @@ body {
     display: flex;
     justify-content: space-around;
     font-weight: lighter;
-    margin: 10px 0;
-    font-size: 18px;
+    margin: 2px 0;
+    font-size: 12px;
 }
 
 #gameCanvas {
-    
+    border: 2px solid #000000;
+    background-color: greenyellow;
 }
 
 .controls {
+    margin-top: 9px;
+    font-size: 11px;
+}
 
+button {
+    padding: 5px 10px;
+    font-size:  10px;
 }
