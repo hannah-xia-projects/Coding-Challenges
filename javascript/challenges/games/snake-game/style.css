@@ -15,7 +15,12 @@ body {
     display: flex;
     justify-content: space-around;
     font-weight: lighter;
+    margin: 10px 0;
     font-size: 18px;
+}
+
+#gameCanvas {
+    
 }
 
 .controls {
