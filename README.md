@@ -21,7 +21,7 @@ inside launcher, run the MainMenu.java file
 
 Planned Challenges:
  **same as java challenges for now
- - Snake game
+ - Snake game (in progress under games)
 
 ## Categories
 - games
