@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ffc3c3;
+}
+.container {
+    text-align: center;
+}
+
+.game-info {
+    display: flex;
+    justify-content: space-around;
+    font-weight: lighter;
+    font-size: 18px;
+}
+
+.controls {
+
+}
